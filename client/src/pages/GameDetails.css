@@ -1,0 +1,37 @@
+.container-details {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 600px;
+  padding: 24px 16px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  row-gap: 24px;
+  border-radius: 5px;
+}
+
+.container-general-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 8px;
+    
+
+    h4 {
+      color: whitesmoke;
+      font-size: 32px;
+    }
+
+    p {
+      color: rgba(245, 245, 245, 0.717)
+    }
+}
+
+.dropdown-type-bet {
+  height: 40px;
+  width: 200px;
+  align-self: flex-end;
+  border-radius: 5px;
+  background-color: #252525;
+  color:whitesmoke;
+  padding: 8px;
+}

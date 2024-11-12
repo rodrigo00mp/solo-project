@@ -1,0 +1,11 @@
+.container-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 80px;
+  padding: 16px 32px;
+  font-family: sans-serif;
+  color: whitesmoke;
+  min-width: 100%;
+  border-bottom: whitesmoke solid 2px;
+}

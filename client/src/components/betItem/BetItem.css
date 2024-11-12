@@ -1,0 +1,12 @@
+.container-bet {
+  background-color: #1c1c1c;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 48px;
+  border-radius: 5px;
+  min-width: 100%;
+  padding: 16px 32px;
+  color: whitesmoke
+}

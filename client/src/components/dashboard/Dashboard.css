@@ -1,0 +1,9 @@
+.container-gamelist {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  padding: 16px 32px;
+  column-gap: 24px;
+  height: 100%;
+}
+
